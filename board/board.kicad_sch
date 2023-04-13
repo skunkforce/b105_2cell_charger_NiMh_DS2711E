@@ -830,7 +830,7 @@
       (reference "TH2") (unit 1) (value "NTCG103JF103FT1") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/8f223000-c7e2-410e-9a79-182ed32cb542"
-      (reference "U1") (unit 1) (value "DS2711E+") (footprint "Package_SO:TSSOP-16_4.4x3.6mm_P0.4mm")
+      (reference "U1") (unit 1) (value "DS2711E+") (footprint "b105:SOP65P640X110-16N")
     )
   )
 )

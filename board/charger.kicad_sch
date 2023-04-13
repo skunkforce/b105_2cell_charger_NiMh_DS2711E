@@ -1411,7 +1411,7 @@
     (uuid 8f223000-c7e2-410e-9a79-182ed32cb542)
     (property "Reference" "U1" (id 0) (at 125.73 74.93 0))
     (property "Value" "DS2711E+" (id 1) (at 125.73 77.47 0))
-    (property "Footprint" "Package_SO:TSSOP-16_4.4x3.6mm_P0.4mm" (id 2) (at 125.73 81.28 0)
+    (property "Footprint" "b105:SOP65P640X110-16N" (id 2) (at 125.73 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 125.73 81.28 0)

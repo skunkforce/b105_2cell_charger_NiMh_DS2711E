@@ -823,6 +823,9 @@
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/fa28c2c0-3780-4891-b1ef-5ed188a86389"
       (reference "R10") (unit 1) (value "0.25R") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
+    (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/fa82de02-94b4-468e-811f-39545560cad0"
+      (reference "R11") (unit 1) (value "10R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/e6089dad-f7f0-4cd6-9e39-d7e01ebc0bb0"
       (reference "TH1") (unit 1) (value "NTCG103JF103FT1") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
